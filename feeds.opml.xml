@@ -2,7 +2,7 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 01 Jul 2024 09:42:28 +0800</dateCreated>
+    <dateCreated>Thu, 01 Aug 2024 10:19:22 +0800</dateCreated>
   </head>
   <body>
     <outline text="Blog">
@@ -83,7 +83,6 @@
       <outline text="Martin Heinz's Blog" type="rss" xmlUrl="https://martinheinz.dev/rss/" htmlUrl="https://martinheinz.dev/rss" description="Blog Posts from Martin Heinz"/>
       <outline text="MikroTik Download" type="rss" xmlUrl="http://www.mikrotik.com/download.rss" htmlUrl="https://mikrotik.com/" description="The newest MikroTik RouterOS releases."/>
       <outline text="MoeLove" type="rss" xmlUrl="https://moelove.info/index.xml" htmlUrl="https://moelove.info/" description="Jintao Zhang's Blog MoeLove. Container, Docker, Go, Kubernetes, Python, Vim."/>
-      <outline text="NetworkProfile.org" type="rss" xmlUrl="https://blog.networkprofile.org/rss/" htmlUrl="https://blog.networkprofile.org/" description="Includes free spelling misktakes.   🇺🇦   🇮🇱"/>
       <outline text="Palark | Blog" type="rss" xmlUrl="https://blog.palark.com/feed/" htmlUrl="https://blog.palark.com" description="DevOps &amp; Kubernetes Goodies"/>
       <outline text="piglei" type="rss" xmlUrl="https://www.piglei.com/feeds/latest/" htmlUrl="http://www.zlovezl.cn/" description="Latest posts on piglei's blog website."/>
       <outline text="Piotr's TechBlog" type="rss" xmlUrl="https://piotrminkowski.com/feed/" htmlUrl="https://piotrminkowski.com/" description="Java, Spring, Kotlin, microservices, Kubernetes, containers"/>
@@ -107,14 +106,18 @@
       <outline text="Tags for gitea/act_runner" type="rss" xmlUrl="https://gitea.com/gitea/act_runner/tags.rss" htmlUrl="https://gitea.com/gitea/act_runner/tags" description="A runner for Gitea based on act."/>
       <outline text="Vincent's Notes" type="rss" xmlUrl="https://missuo.me/index.xml" htmlUrl="https://missuo.me/" description="Recent content on Vincent's Notes"/>
       <outline text="WeepingDogel" type="rss" xmlUrl="https://weepingdogel.github.io/index.xml" htmlUrl="http://weepingdogel.github.io/" description="Learning for happiness."/>
+      <outline text="Yuanji's Blog" type="rss" xmlUrl="https://blog.gimo.me/index.xml" htmlUrl="https://blog.gimo.me/" description="Recent content on Yuanji's Blog"/>
       <outline text="Zlatan Eevee" type="rss" xmlUrl="https://ieevee.com/feed.xml" htmlUrl="https://ieevee.com/"/>
       <outline text="伪架构师" type="rss" xmlUrl="https://blog.fleeto.us/index.xml" htmlUrl="https://blog.fleeto.us/" description="伪架构师"/>
       <outline text="狂人山庄 Madman Hills" type="rss" xmlUrl="https://bra.live/rss/" htmlUrl="https://bra.live/" description="A man entering midage"/>
       <outline text="稚昂长" type="rss" xmlUrl="https://yzyyz.top/atom.xml" htmlUrl="https://yzyyz.top/" description="幼稚园园长"/>
+      <outline text="竹林里有冰的博客" type="rss" xmlUrl="https://zhul.in/rss.xml" htmlUrl="https://zhul.in/" description="zhullyb's blog"/>
+      <outline text="陪她去流浪" type="rss" xmlUrl="https://blog.twofei.com/rss" htmlUrl="https://blog.twofei.com/"/>
       <outline text="面条实验室" type="rss" xmlUrl="https://feed.miantiao.me/" htmlUrl="https://chi.miantiao.me/" description="折腾些什么玩意"/>
     </outline>
     <outline text="国外博客">
       <outline text="./techtipsy" type="rss" xmlUrl="https://ounapuu.ee/index.xml" htmlUrl="https://ounapuu.ee/" description="Recent content on ./techtipsy, a blog written by Herman Õunapuu."/>
+      <outline text="Alexander Gromnitsky's Blog" type="rss" xmlUrl="https://sigwait.org/~alex/blog/rss.xml" htmlUrl="https://sigwait.org/~alex/blog" description="Пограмування, ойті, витяги, цитати"/>
       <outline text="benjojo blog" type="rss" xmlUrl="https://blog.benjojo.co.uk/rss.xml" htmlUrl="https://blog.benjojo.co.uk/" description="Programming, Networking and some things I found hard to fix at some point"/>
       <outline text="computers are bad" type="rss" xmlUrl="https://computer.rip/rss.xml" htmlUrl="https://computer.rip/" description="A newsletter on technology and its problems and also whatever else"/>
       <outline text="Danny Guo" type="rss" xmlUrl="https://www.dannyguo.com/blog/feed.xml" htmlUrl="https://www.dannyguo.com/blog" description="Blog posts by Danny Guo"/>
@@ -122,10 +125,15 @@
       <outline text="https://danluu.com/" type="rss" xmlUrl="https://danluu.com/atom.xml" htmlUrl="https://danluu.com/atom/index.xml" description="Recent content on"/>
       <outline text="https://mydeveloperplanet.com/feed/" type="rss" xmlUrl="https://mydeveloperplanet.com/feed/" htmlUrl="https://mydeveloperplanet.com" description="This blog is for me a platform to share my knowledge in the area of software development."/>
       <outline text="Irresponsible Disclosure" type="rss" xmlUrl="https://blog.daknob.net/index.xml" htmlUrl="https://blog.daknob.net/" description="Recent content on Irresponsible Disclosure"/>
+      <outline text="JonahDevs" type="rss" xmlUrl="https://jonahdevs.com/feed/" htmlUrl="https://jonahdevs.com/" description="Developing Code &amp; Myself"/>
       <outline text="Julia Evans" type="rss" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca/"/>
+      <outline text="kmcd.dev" type="rss" xmlUrl="https://kmcd.dev/posts/index.xml" htmlUrl="https://kmcd.dev/posts/" description="Recent content on kmcd.dev"/>
       <outline text="Mac's Tech Blog" type="rss" xmlUrl="https://www.macchaffee.com/blog/atom.xml" htmlUrl="https://www.macchaffee.com/blog" description="Mac's Tech Blog"/>
+      <outline text="Maciej Walkowiak - Java &amp; Spring" type="rss" xmlUrl="https://maciejwalkowiak.com/rss.xml" htmlUrl="https://maciejwalkowiak.com/" description="Maciej Walkowiak - Java &amp; Spring - Freelance Software Consultant"/>
       <outline text="matduggan.com" type="rss" xmlUrl="https://matduggan.com/rss/" htmlUrl="https://matduggan.com/" description="Old fashioned YAML farmer"/>
+      <outline text="News Minimalist" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml" htmlUrl="https://newsletter.newsminimalist.com/" description="The only newsletter proven to have only important news — curated by ChatGPT and trusted by 7000 readers."/>
       <outline text="Vegard S. Hagen on Stonegarden" type="rss" xmlUrl="https://blog.stonegarden.dev/index.xml" htmlUrl="https://blog.stonegarden.dev/" description="Recent content in Vegard S. Hagen on Stonegarden"/>
+      <outline text="zdimension" type="rss" xmlUrl="https://zdimension.fr/feed.xml" htmlUrl="https://zdimension.fr/" description="adventures in computational madness"/>
     </outline>
   </body>
 </opml>
