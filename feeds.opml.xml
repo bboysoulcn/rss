@@ -2,7 +2,7 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 11 Nov 2024 15:29:11 +0800</dateCreated>
+    <dateCreated>Mon, 02 Dec 2024 16:49:02 +0800</dateCreated>
   </head>
   <body>
     <outline text="Blog">
@@ -109,6 +109,8 @@
       <outline text="Home on ITTAVERN.COM" type="rss" xmlUrl="https://ittavern.com/rss.xml" htmlUrl="https://ittavern.com/" description="Recent content in Home on ITTAVERN.COM"/>
       <outline text="https://danluu.com/" type="rss" xmlUrl="https://danluu.com/atom.xml" htmlUrl="https://danluu.com/atom/index.xml" description="Recent content on"/>
       <outline text="https://mydeveloperplanet.com/feed/" type="rss" xmlUrl="https://mydeveloperplanet.com/feed/" htmlUrl="https://mydeveloperplanet.com" description="This blog is for me a platform to share my knowledge in the area of software development."/>
+      <outline text="Hugues Blog" type="rss" xmlUrl="https://blog.izissise.net/atom.xml" htmlUrl="https://blog.izissise.net/"/>
+      <outline text="Jeff Geerling's Blog" type="rss" xmlUrl="https://www.jeffgeerling.com/blog.xml" htmlUrl="https://www.jeffgeerling.com/"/>
       <outline text="JonahDevs" type="rss" xmlUrl="https://jonahdevs.com/feed/" htmlUrl="https://jonahdevs.com/" description="Developing Code &amp; Myself"/>
       <outline text="Jon Seager" type="rss" xmlUrl="https://jnsgr.uk/index.xml" htmlUrl="https://jnsgr.uk/" description="Recent content on Jon Seager"/>
       <outline text="josh.fail" type="rss" xmlUrl="https://josh.fail/feed.xml" htmlUrl="https://josh.fail/" description="Random thoughts about programming."/>
@@ -122,9 +124,11 @@
       <outline text="Mac's Tech Blog" type="rss" xmlUrl="https://www.macchaffee.com/blog/atom.xml" htmlUrl="https://www.macchaffee.com/blog" description="Mac's Tech Blog"/>
       <outline text="Maciej Walkowiak - Java &amp; Spring" type="rss" xmlUrl="https://maciejwalkowiak.com/rss.xml" htmlUrl="https://maciejwalkowiak.com/" description="Maciej Walkowiak - Java &amp; Spring - Freelance Software Consultant"/>
       <outline text="matduggan.com" type="rss" xmlUrl="https://matduggan.com/rss/" htmlUrl="https://matduggan.com/" description="Old fashioned YAML farmer"/>
+      <outline text="Mathieu Larose" type="rss" xmlUrl="https://mathieularose.com/atom.xml" htmlUrl="https://mathieularose.com/atom.xml"/>
       <outline text="News Minimalist" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml" htmlUrl="https://newsletter.newsminimalist.com/" description="The only newsletter proven to have only important news. Trusted by 8000 readers."/>
       <outline text="ParaVocê Dev Blog" type="rss" xmlUrl="https://paravoce.bearblog.dev/feed/" htmlUrl="https://paravoce.bearblog.dev/" description="Hi, I'm Evan. I built Thankful to automate customer service for millions of people, which  acquired in 2023.&#13;&#10;&#13;&#10;Since then I started ParaVocê in the off-hour..."/>
       <outline text="Solene'%" type="rss" xmlUrl="https://dataswamp.org/~solene/rss.xml" htmlUrl="https://dataswamp.org/~solene/"/>
+      <outline text="Steven Sklar | My Blog" type="rss" xmlUrl="https://sklar.rocks/atom.xml" htmlUrl="https://sklar.rocks/"/>
       <outline text="Vegard S. Hagen on Stonegarden" type="rss" xmlUrl="https://blog.stonegarden.dev/index.xml" htmlUrl="https://blog.stonegarden.dev/" description="Recent content in Vegard S. Hagen on Stonegarden"/>
       <outline text="zdimension" type="rss" xmlUrl="https://zdimension.fr/feed.xml" htmlUrl="https://zdimension.fr/" description="adventures in computational madness"/>
     </outline>
