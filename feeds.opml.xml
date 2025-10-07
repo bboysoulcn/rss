@@ -2,12 +2,11 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 01 Sep 2025 09:05:45 +0800</dateCreated>
+    <dateCreated>Tue, 07 Oct 2025 18:30:59 +0800</dateCreated>
   </head>
   <body>
     <outline text="Blog">
       <outline text="crossoverJie's Blog" type="rss" xmlUrl="https://crossoverjie.top/atom.xml" htmlUrl="http://crossoverjie.top/" description="baller"/>
-      <outline text="nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)" type="rss" xmlUrl="https://www.cyberciti.com/atom/atom.xml?CF_PAGE_RULE_RD=1" htmlUrl="https://www.cyberciti.biz/atom/"/>
       <outline text="云风的BLOG" type="rss" xmlUrl="https://blog.codingnow.com/atom.xml" htmlUrl="https://blog.codingnow.com/" description="思绪来得快去得也快，偶尔会在这里停留"/>
       <outline text="卡瓦邦噶！" type="rss" xmlUrl="https://www.kawabangga.com/feed" htmlUrl="https://www.kawabangga.com" description="无法自制的人得不到自由。"/>
       <outline text="土豆不好吃" type="rss" xmlUrl="https://dmesg.app/feed" htmlUrl="https://dmesg.app" description="Remember me."/>
@@ -21,7 +20,6 @@
       <outline text="luozhiyun`s Blog 我的技术分享" type="rss" xmlUrl="https://www.luozhiyun.com/feed" htmlUrl="https://www.luozhiyun.com" description="我的技术分享"/>
       <outline text="Markon Review" type="rss" xmlUrl="https://markonreview.com/rss/" htmlUrl="https://markonreview.com/" description="游戏评论、资讯，来自一小撮爱玩游戏的玩家"/>
       <outline text="Mayx的博客" type="rss" xmlUrl="https://mabbs.github.io/atom.xml" htmlUrl="https://mabbs.github.io/" description="Mayx's Home Page"/>
-      <outline text="Mr. PM 下午先生" type="rss" xmlUrl="http://feeds.feedburner.com/pmmustknow" htmlUrl="https://mrpm.cc" description="PM可以是產品經理、下午、Pig Man，但絕對不是Poor Man"/>
       <outline text="Muniao's blog" type="rss" xmlUrl="https://www.qtmuniao.com/atom.xml" htmlUrl="https://www.qtmuniao.com/" description="分布式系统，数据库，存储"/>
       <outline text="Nicksxs's Blog" type="rss" xmlUrl="https://nicksxs.me/atom.xml" htmlUrl="https://nicksxs.me/" description="What hurts more, the pain of hard work or the pain of regret?"/>
       <outline text="Oilbeater 的自习室" type="rss" xmlUrl="https://oilbeater.com/atom.xml" htmlUrl="http://oilbeater.com/"/>
@@ -34,7 +32,6 @@
       <outline text="打工人日志" type="rss" xmlUrl="https://www.jobcher.com/index.xml" htmlUrl="https://www.jobcher.com/" description="feedId:56003627300625409+userId:61956619330322432"/>
       <outline text="把酒诗代码" type="rss" xmlUrl="https://102no.com/atom.xml" htmlUrl="https://102no.com/" description="是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）"/>
       <outline text="林小沐" type="rss" xmlUrl="https://immmmm.com/atom.xml" htmlUrl="https://immmmm.com/"/>
-      <outline text="某行人" type="rss" xmlUrl="https://wwj718.github.io/index.xml" htmlUrl="http://wwj718.github.io/" description="Recent content on 夜行人"/>
       <outline text="游魂博客" type="rss" xmlUrl="https://www.iyouhun.com/rss.php" htmlUrl="https://www.iyouhun.com/" description="技术交流,资源共享,分享点滴。"/>
       <outline text="谢乾坤|青南" type="rss" xmlUrl="https://kingname.info/atom.xml" htmlUrl="https://www.kingname.info/" description="给时光以生命。"/>
     </outline>
@@ -46,10 +43,9 @@
       <outline text="From pet to cattle" type="rss" xmlUrl="https://pet2cattle.com/sitemap.rss" htmlUrl="https://pet2cattle.com" description="Treat your clusters like cattle, not pets by using kubernetes, helm and terraform"/>
       <outline text="Gitea Blog Blog" type="rss" xmlUrl="https://blog.gitea.com/rss.xml" htmlUrl="https://blog.gitea.com/" description="Gitea Blog Blog"/>
       <outline text="HelloGitHub 月刊" type="rss" xmlUrl="https://hellogithub.com/rss" htmlUrl="https://hellogithub.com" description="HelloGitHub 是一个分享有趣、 入门级开源项目的平台。 希望大家能够在这里找到编程的快乐、 轻松搞定问题的技术方案、 大呼过瘾的开源神器， 顺其自然地开启开源之旅。"/>
-      <outline text="Jimmy Song - 专注于探索后 Kubernetes 时代的云原生新范式 – 博客" type="rss" xmlUrl="https://jimmysong.io/blog/index.xml" htmlUrl="https://jimmysong.io/blog/" description="Recent content in 博客 on Jimmy Song"/>
       <outline text="Kubernetes.io" type="rss" xmlUrl="https://kubernetes.io/feed.xml" htmlUrl="https://kubernetes.io/" description="The Kubernetes blog is used by the project to communicate new features, community reports, and any news that might be relevant to the Kubernetes community."/>
       <outline text="MikroTik Download" type="rss" xmlUrl="http://www.mikrotik.com/download.rss" htmlUrl="https://mikrotik.com/" description="The newest MikroTik RouterOS releases."/>
-      <outline text="Palark | Blog" type="rss" xmlUrl="https://blog.palark.com/feed/" htmlUrl="https://blog.palark.com" description="DevOps &amp; Kubernetes Goodies"/>
+      <outline text="Palark | Blog" type="rss" xmlUrl="https://palark.com/blog/feed/" htmlUrl="https://blog.palark.com" description="DevOps &amp; Kubernetes Goodies"/>
       <outline text="piglei" type="rss" xmlUrl="https://www.piglei.com/feeds/latest/" htmlUrl="http://www.zlovezl.cn/" description="Latest posts on piglei's blog website."/>
       <outline text="Piotr's TechBlog" type="rss" xmlUrl="https://piotrminkowski.com/feed/" htmlUrl="https://piotrminkowski.com/" description="Java, Spring, Kotlin, microservices, Kubernetes, containers"/>
       <outline text="The Codist" type="rss" xmlUrl="http://feeds.feedburner.com/thecodist" htmlUrl="https://thecodist.com/" description="Four Decades Of Learning, Experiences, And Adventures"/>
@@ -62,7 +58,6 @@
     <outline text="国内博客">
       <outline text="Allen Hua 的网络博客" type="rss" xmlUrl="https://hellodk.cn/feed/" htmlUrl="https://hellodk.cn/" description="Allen Hua 的网络笔记"/>
       <outline text="Bing's Blog" type="rss" xmlUrl="https://imcbc.cn/index.xml" htmlUrl="https://imcbc.cn/" description="个人技术博客"/>
-      <outline text="Home on 阳明的博客" type="rss" xmlUrl="https://www.qikqiak.com/index.xml" htmlUrl="https://www.qikqiak.com/" description="Recent content in Home on 阳明的博客"/>
       <outline text="Luminous' Home" type="rss" xmlUrl="https://luotianyi.vc/feed" htmlUrl="https://luotianyi.vc" description="记录生活中的点滴"/>
       <outline text="Lyc8503's blog" type="rss" xmlUrl="https://blog.lyc8503.net/atom.xml" htmlUrl="https://blog.lyc8503.net/"/>
       <outline text="Manjusaka" type="rss" xmlUrl="https://www.manjusaka.blog/atom.xml" htmlUrl="https://www.manjusaka.blog/" description="写代码的香港记者"/>
@@ -78,6 +73,7 @@
       <outline text="陈少文的网站" type="rss" xmlUrl="https://www.chenshaowen.com/atom.xml" htmlUrl="https://www.chenshaowen.com/" description="Recent content on 陈少文的网站"/>
       <outline text="陪她去流浪" type="rss" xmlUrl="https://blog.twofei.com/rss" htmlUrl="https://blog.twofei.com/" description="博客建站🔟周年快乐🎉！圣诞快乐🎄！"/>
       <outline text="面条实验室" type="rss" xmlUrl="https://feed.miantiao.me/" htmlUrl="https://chi.miantiao.me/" description="折腾些什么玩意"/>
+      <outline text="首页 on Dejavu's Blog" type="rss" xmlUrl="https://blog.dejavu.moe/index.xml" htmlUrl="https://blog.dejavu.moe/" description="Recent content in 首页 on Dejavu's Blog"/>
     </outline>
     <outline text="国外博客">
       <outline text="./techtipsy" type="rss" xmlUrl="https://ounapuu.ee/index.xml" htmlUrl="https://ounapuu.ee/" description="Recent content on ./techtipsy, a blog written by Herman Õunapuu."/>
@@ -87,14 +83,14 @@
       <outline text="All Things Distributed" type="rss" xmlUrl="https://www.allthingsdistributed.com/atom.xml" htmlUrl="https://www.allthingsdistributed.com/" description="Werner Vogels on building scalable and robust distributed systems"/>
       <outline text="benjojo blog" type="rss" xmlUrl="https://blog.benjojo.co.uk/rss.xml" htmlUrl="https://blog.benjojo.co.uk/" description="Programming, Networking and some things I found hard to fix at some point"/>
       <outline text="Bryan Braun - Blog" type="rss" xmlUrl="https://www.bryanbraun.com/rss.xml" htmlUrl="https://www.bryanbraun.com/" description="Making things and sharing what I learn."/>
+      <outline text="Chaminda's DevOps Journey with MSFT" type="rss" xmlUrl="https://chamindac.blogspot.com/feeds/posts/default" htmlUrl="https://chamindac.blogspot.com/" description="DevOps with Azure DevOps"/>
+      <outline text="Cloud Native Deep Dive" type="rss" xmlUrl="https://www.cloudnativedeepdive.com/rss/" htmlUrl="https://www.cloudnativedeepdive.com/" description="Your go-to resource for DevOps and Cloud best practices"/>
       <outline text="computers are bad" type="rss" xmlUrl="https://computer.rip/rss.xml" htmlUrl="https://computer.rip/" description="A newsletter on technology and its problems and also whatever else"/>
       <outline text="Data Engineering Blog" type="rss" xmlUrl="https://www.ssp.sh/index.xml" htmlUrl="https://www.ssp.sh/" description="Genuine News About the Data Ecosystem"/>
       <outline text="decryption's blog" type="rss" xmlUrl="https://blog.decryption.net.au/feed.xml" htmlUrl="https://blog.decryption.net.au/" description="this is where decryption writes stuff"/>
       <outline text="Dries Buytaert" type="rss" xmlUrl="https://dri.es/rss.xml" htmlUrl="https://dri.es/" description="On digital experiences, Open Source, Open Web, Drupal, and our digital future."/>
       <outline text="DuckTyped" type="rss" xmlUrl="https://www.ducktyped.org/feed" htmlUrl="https://www.ducktyped.org/" description="Illustrated posts on software"/>
-      <outline text="Ersei 'n Stuff" type="rss" xmlUrl="https://ersei.net/en/blog.atom" htmlUrl="https://ersei.net/en/blog" description="Thoughts of Ersei"/>
       <outline text="Fatih Arslan" type="rss" xmlUrl="https://arslan.io/rss/" htmlUrl="https://arslan.io/" description="Engineer with a passion for Design, Dieter Rams, Watches, Coffee and Bauhaus"/>
-      <outline text="GitButler" type="rss" xmlUrl="https://blog.gitbutler.com/rss" htmlUrl="https://blog.gitbutler.com/" description="All about the GitButler product, Git itself, version control, startups and more."/>
       <outline text="Gunnar Morling" type="rss" xmlUrl="https://www.morling.dev/index.xml" htmlUrl="https://www.morling.dev/" description="Recent content on Gunnar Morling"/>
       <outline text="Hadi Javeed's blog" type="rss" xmlUrl="https://www.hadijaveed.me/feed_rss_created.xml" htmlUrl="https://hadijaveed.me/" description="Notes about startups, AI, health-care and overall engineering"/>
       <outline text="Hamel's Blog" type="rss" xmlUrl="https://hamel.dev/index.xml" htmlUrl="https://hamel.dev/" description="A collection of technical blogs and talks on machine learning and data science."/>
@@ -109,10 +105,12 @@
       <outline text="Julia Evans: TIL" type="rss" xmlUrl="https://jvns.ca/til/atom.xml" htmlUrl="http://jvns.ca/til"/>
       <outline text="Justin Garrison's Homepage" type="rss" xmlUrl="https://justingarrison.com/index.xml" htmlUrl="https://justingarrison.com/" description="Recent content in Justin Garrison's Homepage"/>
       <outline text="kmcd.dev" type="rss" xmlUrl="https://kmcd.dev/posts/index.xml" htmlUrl="https://kmcd.dev/posts/" description="Recent content on kmcd.dev"/>
+      <outline text="kokada" type="rss" xmlUrl="https://kokada.dev/rss/" htmlUrl="https://kokada.dev/" description="# dd if=/dev/urandom of=/dev/brain0&#10;dd: error writing '/dev/brain0': No space left on device"/>
       <outline text="ktz." type="rss" xmlUrl="https://blog.ktz.me/rss/" htmlUrl="https://blog.ktz.me/" description="Podcaster. Musician. Photographer. Tailscalar."/>
       <outline text="Kubernetes Failure Stories" type="rss" xmlUrl="https://k8s.af/rss.xml" htmlUrl="https://k8s.af/" description="A compiled list of links to public failure stories related to Kubernetes.&#10;Most recent publications on top."/>
       <outline text="LibreNews" type="rss" xmlUrl="https://thelibre.news/rss/" htmlUrl="https://thelibre.news/" description="In-depth news about Linux and Free and Open Source Software."/>
       <outline text="Luca Cavallin" type="rss" xmlUrl="https://www.lucavall.in/feed.xml" htmlUrl="https://www.lucavall.in/" description="Luca Cavallin, Software Engineer at GitHub. I work on distributed systems&#10;      with a focus on developer and infrastructure tooling. My interests include Go,&#10;      Kubernetes, networking, containers, observability, Rust, eBPF, and WebAssembly.&#10;      I like combining systems engineering and developer experience to build tools&#10;      that make it easier to run and scale cloud-native systems. I'm an active&#10;      contributor to open source and I try to share whatever knowledge I have.&#10;      Additionally, I hold the title of Google Developer Expert (GDE) and CNCF Ambassador.&#10;      Outside of work, activities like photography, cycling, cooking on a kamado and cleaning litterboxes keep me occupied."/>
+      <outline text="Luc van Donkersgoed's Notes" type="rss" xmlUrl="https://lucvandonkersgoed.com/feed/" htmlUrl="https://lucvandonkersgoed.com/"/>
       <outline text="Mac's Tech Blog" type="rss" xmlUrl="https://www.macchaffee.com/blog/atom.xml" htmlUrl="https://www.macchaffee.com/blog" description="Mac's Tech Blog"/>
       <outline text="matduggan.com" type="rss" xmlUrl="https://matduggan.com/rss/" htmlUrl="https://matduggan.com/" description="Old fashioned YAML farmer"/>
       <outline text="Mathieu Larose" type="rss" xmlUrl="https://mathieularose.com/atom.xml" htmlUrl="https://mathieularose.com/atom.xml"/>
@@ -124,8 +122,11 @@
       <outline text="Open Source Daily" type="rss" xmlUrl="https://opensourcedaily.blog/rss/" htmlUrl="https://opensourcedaily.blog/" description="Make the life open-source"/>
       <outline text="Paul Gross’s Blog" type="rss" xmlUrl="http://feeds.feedburner.com/pgrs" htmlUrl="https://www.pgrs.net/" description="Principal software developer"/>
       <outline text="Pilledtexts.com" type="rss" xmlUrl="https://pilledtexts.com/index.xml" htmlUrl="https://pilledtexts.com/" description="Recent content in PILLED TEXTS WEBLOG on Pilledtexts.com"/>
+      <outline text="Posts on Major Hayden" type="rss" xmlUrl="https://major.io/posts/index.xml" htmlUrl="https://major.io/posts/" description="Recent content in Posts on Major Hayden"/>
       <outline text="Quantum" type="rss" xmlUrl="https://quantum5.ca/feed.xml" htmlUrl="https://quantum5.ca/" description="Quantum's (a.k.a. Guanzhong Chen) blog about coding, security, and other computer technology."/>
+      <outline text="RTFM: Linux, DevOps, and system administration" type="rss" xmlUrl="https://rtfm.co.ua/en/feed/" htmlUrl="https://rtfm.co.ua/" description="DevOps-engineering, and system administration. Cases from practice."/>
       <outline text="Solene'%" type="rss" xmlUrl="https://dataswamp.org/~solene/rss.xml" htmlUrl="https://dataswamp.org/~solene/"/>
+      <outline text="Terence Eden’s Blog" type="rss" xmlUrl="https://shkspr.mobi/blog/feed/atom/" htmlUrl="https://shkspr.mobi/blog" description="Regular nonsense about tech and its effects 🙃"/>
       <outline text="TerminalBytes.com" type="rss" xmlUrl="https://terminalbytes.com/index.xml" htmlUrl="https://terminalbytes.com/" description="Recent content on TerminalBytes.com"/>
       <outline text="TuM'Fatig" type="rss" xmlUrl="https://www.tumfatig.net/index.xml" htmlUrl="https://www.tumfatig.net/" description="Recent content on TuM'Fatig"/>
       <outline text="Vegard S. Hagen on Stonegarden" type="rss" xmlUrl="https://blog.stonegarden.dev/index.xml" htmlUrl="https://blog.stonegarden.dev/" description="Recent content in Vegard S. Hagen on Stonegarden"/>
