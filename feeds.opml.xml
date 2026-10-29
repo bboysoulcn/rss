@@ -2,7 +2,7 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Sat, 10 Oct 2026 17:40:13 +0800</dateCreated>
+    <dateCreated>Thu, 29 Oct 2026 10:29:35 +0800</dateCreated>
   </head>
   <body>
     <outline text="国内博客">
@@ -107,7 +107,6 @@
       <outline text="Loopwerk" type="rss" xmlUrl="https://www.loopwerk.io/articles/feed.xml"/>
       <outline text="Louwrentius" type="rss" xmlUrl="https://louwrentius.com/feeds/all.atom.xml" htmlUrl="https://louwrentius.com/"/>
       <outline text="Luca Cavallin" type="rss" xmlUrl="https://www.lucavallin.com/feed.xml" htmlUrl="https://www.lucavall.in/" description="Luca Cavallin, Software Engineer at GitHub. I work on distributed systems&#10;      with a focus on developer and infrastructure tooling. My interests include Go,&#10;      Kubernetes, networking, containers, observability, Rust, eBPF, and WebAssembly.&#10;      I like combining systems engineering and developer experience to build tools&#10;      that make it easier to run and scale cloud-native systems. I'm an active&#10;      contributor to open source and I try to share whatever knowledge I have.&#10;      Additionally, I hold the title of Google Developer Expert (GDE) and CNCF Ambassador.&#10;      Outside of work, activities like photography, cycling, cooking on a kamado and cleaning litterboxes keep me occupied."/>
-      <outline text="lzon.ca" type="rss" xmlUrl="https://lzon.ca/rss.xml" htmlUrl="https://lzon.ca/" description="lzon.ca"/>
       <outline text="Marc Brooker's Blog" type="rss" xmlUrl="https://brooker.co.za/blog/rss.xml" htmlUrl="http://brooker.co.za/blog/" description="Marc Brooker's Blog"/>
       <outline text="Martin Alderson" type="rss" xmlUrl="https://martinalderson.com/feed.xml" htmlUrl="https://martinalderson.com/" description="Web development, AI tooling, and building better software"/>
       <outline text="matduggan.com" type="rss" xmlUrl="https://matduggan.com/rss/" htmlUrl="https://matduggan.com/" description="Old fashioned YAML farmer"/>
@@ -123,7 +122,6 @@
       <outline text="Notes on software development" type="rss" xmlUrl="https://notes.eatonphil.com/rss.xml" htmlUrl="http://notes.eatonphil.com/" description="Notes on software development"/>
       <outline text="ntietz.com blog - technically a blog" type="rss" xmlUrl="https://ntietz.com/atom.xml" htmlUrl="https://ntietz.com/blog/"/>
       <outline text="nuxx.net" type="rss" xmlUrl="https://nuxx.net/blog/feed/" htmlUrl="https://nuxx.net/blog" description="Making, baking, and (un-)breaking things in Southeast Michigan."/>
-      <outline text="Pilledtexts.com" type="rss" xmlUrl="https://pilledtexts.com/index.xml" htmlUrl="https://pilledtexts.com/" description="Recent content in PILLED TEXTS WEBLOG on Pilledtexts.com"/>
       <outline text="Posts on Alex Selimov" type="rss" xmlUrl="https://alexselimov.com/posts/index.xml" htmlUrl="https://www.alexselimov.com/posts/" description="Recent content in Posts on Alex Selimov"/>
       <outline text="Posts on Major Hayden" type="rss" xmlUrl="https://major.io/posts/index.xml" htmlUrl="https://major.io/posts/" description="Recent content in Posts on Major Hayden"/>
       <outline text="Posts on Nelson Figueroa" type="rss" xmlUrl="https://nelson.cloud/posts/index.xml" htmlUrl="https://nelson.cloud/posts/" description="Recent content in Posts on Nelson Figueroa"/>
@@ -161,7 +159,6 @@
       <outline text="VelvetShark • Radek Sienkiewicz" type="rss" xmlUrl="https://velvetshark.com/rss.xml" htmlUrl="https://velvetshark.com/" description="Radek's personal website about learnings, challenges, software development, and much more."/>
       <outline text="Verne in GitHub" type="rss" xmlUrl="https://blog.einverne.info/feed.xml" htmlUrl="https://blog.einverne.info/" description="博客内容涵盖多个主题，包括 Jekyll、Linux 命令、编程语言学习笔记、各种产品体验、经验总结等。还深入探讨 Git、Java、Vim、Linux、Android 等技术领域，分享关于 Docker、Go、Spring、开源项目的见解。"/>
       <outline text="Veronica Explains" type="rss" xmlUrl="https://veronicaexplains.net/rss/" htmlUrl="https://veronicaexplains.net/" description="Linux mom, vintage tech enthusiast, nerdy musician."/>
-      <outline text="VulpineCitrus - Blog" type="rss" xmlUrl="https://vulpinecitrus.info/blog/atom.xml" htmlUrl="https://vulpinecitrus.info/blog/" description="Personal blog of a PhD student interested in networking, programming, and bicycles."/>
       <outline text="Weblog on marginalia.nu" type="rss" xmlUrl="https://www.marginalia.nu/log/index.xml" htmlUrl="https://www.marginalia.nu/log/" description="Recent content in Weblog on marginalia.nu"/>
       <outline text="writing on silly business" type="rss" xmlUrl="https://silly.business/blog/index.xml" htmlUrl="https://silly.business/blog/" description="Recent content in writing on silly business"/>
       <outline text="wwj.dev blog" type="rss" xmlUrl="https://wwj.dev/posts/feed.atom" htmlUrl="https://wwj.dev/posts/"/>
@@ -170,24 +167,6 @@
       <outline text="Yale E360" type="rss" xmlUrl="https://e360.yale.edu/feed.xml" htmlUrl="https://e360.yale.edu/" description="Yale Environment 360 is an online magazine offering opinion, analysis, reporting, and debate on global environmental issues."/>
       <outline text="Zeruns's Blog" type="rss" xmlUrl="https://blog.zeruns.com/feed/" htmlUrl="https://blog.zeruns.com/" description="zeruns的博客-我的学习笔记和技术分享"/>
       <outline text="マリウス" type="rss" xmlUrl="https://xn--gckvb8fzb.com/index.xml" htmlUrl="https://xn--gckvb8fzb.com/" description="The Journal of マリウス"/>
-    </outline>
-    <outline text="未分类">
-      <outline text="清华大学 TUNA 协会" type="rss" xmlUrl="https://tuna.moe/feed.xml" htmlUrl="https://tuna.moe/" description="清华大学 TUNA 协会原名清华大学学生网管会，注册名清华大学学生网络与开源软件协会，是由清华大学网络技术和开源软件爱好者、技术宅组成的团体。现阶段向校内外提供开源软件镜像等服务。"/>
-      <outline text="如有乐享" type="rss" xmlUrl="https://51.ruyo.net/feed" htmlUrl="https://51.ruyo.net" description="分享是一种美德，是一种态度。"/>
-      <outline text="少数派" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com" description="少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质"/>
-      <outline text="树莓派实验室" type="rss" xmlUrl="https://shumeipai.nxez.com/feed" htmlUrl="https://shumeipai.nxez.com" description="Raspberry Pi中文资讯站，提供丰富的树莓派使用教程和DIY资讯"/>
-      <outline text="Appinn" type="rss" xmlUrl="http://feeds-origin.appinn.com/appinns" htmlUrl="https://www.appinn.com" description="分享免费、小巧、实用、有趣、绿色的软件"/>
-      <outline text="Bboysoul's Blog" type="rss" xmlUrl="https://www.bboy.app/atom.xml" htmlUrl="https://www.bboy.app/" description="Recent content on Bboysoul's Blog"/>
-      <outline text="Danb Blog" type="rss" xmlUrl="https://danb.me/blog/index.xml" htmlUrl="https://danb.me/blog/" description="Recent content on Danb Blog"/>
-      <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub"/>
-      <outline text="Gitea Blog Blog" type="rss" xmlUrl="https://blog.gitea.com/rss.xml" htmlUrl="https://blog.gitea.com/" description="Gitea Blog Blog"/>
-      <outline text="HelloGitHub 月刊" type="rss" xmlUrl="https://hellogithub.com/rss" htmlUrl="https://hellogithub.com" description="HelloGitHub 是一个分享有趣、 入门级开源项目的平台。 希望大家能够在这里找到编程的快乐、 轻松搞定问题的技术方案、 大呼过瘾的开源神器， 顺其自然地开启开源之旅。"/>
-      <outline text="Kubernetes.io" type="rss" xmlUrl="https://kubernetes.io/feed.xml" htmlUrl="https://kubernetes.io/" description="The Kubernetes blog is used by the project to communicate new features, community reports, and any news that might be relevant to the Kubernetes community."/>
-      <outline text="MikroTik Download" type="rss" xmlUrl="http://www.mikrotik.com/download.rss" htmlUrl="https://mikrotik.com/" description="The newest MikroTik RouterOS releases."/>
-      <outline text="Palark | Blog" type="rss" xmlUrl="https://palark.com/blog/feed/" htmlUrl="https://blog.palark.com" description="DevOps &amp; Kubernetes Goodies"/>
-      <outline text="piglei" type="rss" xmlUrl="https://www.piglei.com/feeds/latest/" htmlUrl="http://www.zlovezl.cn/" description="Latest posts on piglei's blog website."/>
-      <outline text="Piotr's TechBlog" type="rss" xmlUrl="https://piotrminkowski.com/feed/" htmlUrl="https://piotrminkowski.com/" description="Java, Spring, Kotlin, microservices, Kubernetes, containers"/>
-      <outline text="The Pragmatic Engineer" type="rss" xmlUrl="https://blog.pragmaticengineer.com/rss/" htmlUrl="https://blog.pragmaticengineer.com/" description="Observations across the software engineering industry."/>
     </outline>
     <outline text="Blog">
       <outline text="卡瓦邦噶！" type="rss" xmlUrl="https://www.kawabangga.com/feed" htmlUrl="https://www.kawabangga.com" description="无法自制的人得不到自由。"/>
@@ -212,6 +191,24 @@
       <outline text="UsubeniFantasy" type="rss" xmlUrl="https://ssshooter.com/rss.xml" htmlUrl="https://ssshooter.com" description="往后仍编织千年之梦"/>
       <outline text="W4J1e's blog" type="rss" xmlUrl="https://hin.cool/atom.xml" htmlUrl="https://hin.cool/" description="W4J1e的博客，基于hexo+butterfly，分享有趣和有用的东西，记录不务正业的生活。"/>
       <outline text="YeungYeah 的乱写地" type="rss" xmlUrl="https://scottyeung.top/atom.xml" htmlUrl="https://scottyeung.top/" description="YeungYeah 的乱写地中记录了作者的所思所想及所为。"/>
+    </outline>
+    <outline text="Uncategorized">
+      <outline text="清华大学 TUNA 协会" type="rss" xmlUrl="https://tuna.moe/feed.xml" htmlUrl="https://tuna.moe/" description="清华大学 TUNA 协会原名清华大学学生网管会，注册名清华大学学生网络与开源软件协会，是由清华大学网络技术和开源软件爱好者、技术宅组成的团体。现阶段向校内外提供开源软件镜像等服务。"/>
+      <outline text="如有乐享" type="rss" xmlUrl="https://51.ruyo.net/feed" htmlUrl="https://51.ruyo.net" description="分享是一种美德，是一种态度。"/>
+      <outline text="少数派" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com" description="少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质"/>
+      <outline text="树莓派实验室" type="rss" xmlUrl="https://shumeipai.nxez.com/feed" htmlUrl="https://shumeipai.nxez.com" description="Raspberry Pi中文资讯站，提供丰富的树莓派使用教程和DIY资讯"/>
+      <outline text="Appinn" type="rss" xmlUrl="http://feeds-origin.appinn.com/appinns" htmlUrl="https://www.appinn.com" description="分享免费、小巧、实用、有趣、绿色的软件"/>
+      <outline text="Bboysoul's Blog" type="rss" xmlUrl="https://www.bboy.app/atom.xml" htmlUrl="https://www.bboy.app/" description="Recent content on Bboysoul's Blog"/>
+      <outline text="Danb Blog" type="rss" xmlUrl="https://danb.me/blog/index.xml" htmlUrl="https://danb.me/blog/" description="Recent content on Danb Blog"/>
+      <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub"/>
+      <outline text="Gitea Blog Blog" type="rss" xmlUrl="https://blog.gitea.com/rss.xml" htmlUrl="https://blog.gitea.com/" description="Gitea Blog Blog"/>
+      <outline text="HelloGitHub 月刊" type="rss" xmlUrl="https://hellogithub.com/rss" htmlUrl="https://hellogithub.com" description="HelloGitHub 是一个分享有趣、 入门级开源项目的平台。 希望大家能够在这里找到编程的快乐、 轻松搞定问题的技术方案、 大呼过瘾的开源神器， 顺其自然地开启开源之旅。"/>
+      <outline text="Kubernetes.io" type="rss" xmlUrl="https://kubernetes.io/feed.xml" htmlUrl="https://kubernetes.io/" description="The Kubernetes blog is used by the project to communicate new features, community reports, and any news that might be relevant to the Kubernetes community."/>
+      <outline text="MikroTik Download" type="rss" xmlUrl="http://www.mikrotik.com/download.rss" htmlUrl="https://mikrotik.com/" description="The newest MikroTik RouterOS releases."/>
+      <outline text="Palark | Blog" type="rss" xmlUrl="https://palark.com/blog/feed/" htmlUrl="https://blog.palark.com" description="DevOps &amp; Kubernetes Goodies"/>
+      <outline text="piglei" type="rss" xmlUrl="https://www.piglei.com/feeds/latest/" htmlUrl="http://www.zlovezl.cn/" description="Latest posts on piglei's blog website."/>
+      <outline text="Piotr's TechBlog" type="rss" xmlUrl="https://piotrminkowski.com/feed/" htmlUrl="https://piotrminkowski.com/" description="Java, Spring, Kotlin, microservices, Kubernetes, containers"/>
+      <outline text="The Pragmatic Engineer" type="rss" xmlUrl="https://blog.pragmaticengineer.com/rss/" htmlUrl="https://blog.pragmaticengineer.com/" description="Observations across the software engineering industry."/>
     </outline>
   </body>
 </opml>
