@@ -2,7 +2,7 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Thu, 29 Oct 2026 10:29:35 +0800</dateCreated>
+    <dateCreated>Mon, 09 Nov 2026 07:31:01 +0800</dateCreated>
   </head>
   <body>
     <outline text="国内博客">
@@ -122,6 +122,7 @@
       <outline text="Notes on software development" type="rss" xmlUrl="https://notes.eatonphil.com/rss.xml" htmlUrl="http://notes.eatonphil.com/" description="Notes on software development"/>
       <outline text="ntietz.com blog - technically a blog" type="rss" xmlUrl="https://ntietz.com/atom.xml" htmlUrl="https://ntietz.com/blog/"/>
       <outline text="nuxx.net" type="rss" xmlUrl="https://nuxx.net/blog/feed/" htmlUrl="https://nuxx.net/blog" description="Making, baking, and (un-)breaking things in Southeast Michigan."/>
+      <outline text="Outside My Window" type="rss" xmlUrl="https://www.birdsoutsidemywindow.org/feed/" htmlUrl="https://www.birdsoutsidemywindow.org/" description="A Blog of Birds &amp; Nature with Kate St. John"/>
       <outline text="Posts on Alex Selimov" type="rss" xmlUrl="https://alexselimov.com/posts/index.xml" htmlUrl="https://www.alexselimov.com/posts/" description="Recent content in Posts on Alex Selimov"/>
       <outline text="Posts on Major Hayden" type="rss" xmlUrl="https://major.io/posts/index.xml" htmlUrl="https://major.io/posts/" description="Recent content in Posts on Major Hayden"/>
       <outline text="Posts on Nelson Figueroa" type="rss" xmlUrl="https://nelson.cloud/posts/index.xml" htmlUrl="https://nelson.cloud/posts/" description="Recent content in Posts on Nelson Figueroa"/>
@@ -161,7 +162,6 @@
       <outline text="Veronica Explains" type="rss" xmlUrl="https://veronicaexplains.net/rss/" htmlUrl="https://veronicaexplains.net/" description="Linux mom, vintage tech enthusiast, nerdy musician."/>
       <outline text="Weblog on marginalia.nu" type="rss" xmlUrl="https://www.marginalia.nu/log/index.xml" htmlUrl="https://www.marginalia.nu/log/" description="Recent content in Weblog on marginalia.nu"/>
       <outline text="writing on silly business" type="rss" xmlUrl="https://silly.business/blog/index.xml" htmlUrl="https://silly.business/blog/" description="Recent content in writing on silly business"/>
-      <outline text="wwj.dev blog" type="rss" xmlUrl="https://wwj.dev/posts/feed.atom" htmlUrl="https://wwj.dev/posts/"/>
       <outline text="Xe Iaso's blog" type="rss" xmlUrl="https://xeiaso.net/blog.rss" htmlUrl="https://xeiaso.net/" description="Thoughts and musings from Xe Iaso"/>
       <outline text="Yaky's" type="rss" xmlUrl="https://yaky.dev/feed" htmlUrl="https://yaky.dev/"/>
       <outline text="Yale E360" type="rss" xmlUrl="https://e360.yale.edu/feed.xml" htmlUrl="https://e360.yale.edu/" description="Yale Environment 360 is an online magazine offering opinion, analysis, reporting, and debate on global environmental issues."/>
